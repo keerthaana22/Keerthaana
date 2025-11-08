@@ -8,7 +8,7 @@ Here you’ll find projects I’ve built to explore real-world data, derive insi
 
 ## 🧩 Featured Projects
 
-### 🛍️ [E-Commerce Sales Data Analysis](https://github.com/keerthana-s/Ecommerce_Sales_Analysis)
+### 🛍️ [E-Commerce Sales Data Analysis](https://github.com/keerthaana22/Ecommerce_Sales_Analysis)
 **Tools:** Python, Pandas, SQL, Power BI  
 **Highlights:**
 - Cleaned and analyzed 2.8K+ sales records  
