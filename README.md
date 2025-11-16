@@ -15,6 +15,16 @@ Here you’ll find projects I’ve built to explore real-world data, derive insi
 - Built interactive dashboard to visualize revenue trends  
 - Identified top 10 customers and top-performing product lines
   ---
+###🌅 [Daily Motivation Dashboard](https://github.com/keerthaana22/daily-motivation-dashboard)
+
+Tools: HTML, CSS, JavaScript
+Highlights:
+
+Designed a clean and responsive dashboard displaying daily motivational quotes
+
+Implemented dynamic quote generation using JavaScript
+
+Created an engaging UI with smooth animations and modern layout styling
 
 ## 💡 Skills
 🔹 Data Cleaning (Pandas, NumPy)  
